@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinArtBook</string>
+    <string name="enter_artist_name">Enter Artist Name</string>
+    <string name="enter_year">Enter Year</string>
+    <string name="save">SAVE</string>
+    <string name="enter_art_name">Enter Art Name</string>
+    <string name="test_row">Test_Row</string>
+</resources>
